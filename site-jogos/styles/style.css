@@ -1,0 +1,41 @@
+html {
+    font-family: Roboto;
+    background-color: rgb(216, 216, 216);
+}
+
+.steam {
+    width: 60px;
+    display: flex;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    line-height: 2;
+    letter-spacing: 1px;
+    background-color: rgb(44, 44, 184);
+}
+
+.witcher {
+    width: 300px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.APT {
+    width: 300px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.BAN {
+    width: 300px;
+    display: flex;
+    margin: 0 auto;
+}
+
+p, h2, h3, h4, ul, li {
+    text-align: center;
+    line-height: 2;
+    letter-spacing: 1px;
+}
