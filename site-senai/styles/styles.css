@@ -1,0 +1,28 @@
+html {
+    font-family: Roboto, sans-serif; 
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+img {
+   width: 100px; 
+   display: flex;
+   margin: 0 auto;
+}
+a {
+    color: #4A90E2;
+}
+
+
+
+
+
